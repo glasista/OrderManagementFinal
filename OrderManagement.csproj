@@ -8,8 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Migrations\20200731115244_DbContextUpdate.cs" />
-    <Compile Remove="Migrations\20200731115244_DbContextUpdate.Designer.cs" />
+    <Compile Remove="Data\Migrations\20200731115244_DbContextUpdate.cs" />
+    <Compile Remove="Data\Migrations\20200731115244_DbContextUpdate.Designer.cs" />
   </ItemGroup>
 
   <ItemGroup>

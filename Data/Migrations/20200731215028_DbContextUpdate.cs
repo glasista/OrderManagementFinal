@@ -1,7 +1,7 @@
-﻿using Microsoft.EntityFrameworkCore.Migrations;
-using System;
+﻿using System;
+using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace OrderManagement.Migrations
+namespace OrderManagement.Data.Migrations
 {
     public partial class DbContextUpdate : Migration
     {
